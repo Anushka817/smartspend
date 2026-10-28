@@ -1,0 +1,8 @@
+{
+  "name": "SmartSpend",
+  "description": "Spend Smarter. Save Better. Track expenses, manage monthly budgets, plan smart shopping, compare store prices, and achieve your financial savings goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
